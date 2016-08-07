@@ -20,8 +20,10 @@ esquemáticos.
 Clone este respositório em um diretório.
 
 No mesmo diretório clone os seguintes repositórios:
+
 [pluglib](https://github.com/plugfects/pluglib) - contém símbolos para os
 esquemáticos.
+
 [plugmodules](https://github.com/plugfects/plugmodules) - Contém os
 sub-esquemáticos usados na folha mestre
 
